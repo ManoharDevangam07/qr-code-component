@@ -8,3 +8,14 @@ A responsive QR code component created as part of a Frontend Mentor challenge. T
 - QR code image with a heading and description
 - Custom styling with CSS
 - Google Fonts integration for typography
+
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/qr-code-component.git
+2. Navigate to the project directory:
+   ```bash     
+  cd qr-code-component
+
+3. open the index.html in browser to view the output
